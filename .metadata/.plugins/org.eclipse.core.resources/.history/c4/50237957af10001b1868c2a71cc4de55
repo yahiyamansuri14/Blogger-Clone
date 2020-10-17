@@ -1,0 +1,5 @@
+package io.marsab.minorproject.controller;
+
+public class HomeController {
+
+}
